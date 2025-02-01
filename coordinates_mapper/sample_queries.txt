@@ -1,0 +1,5 @@
+Type	Transcript	Transcript_Coord	Chromosome	Genome_Coord
+T2G	TR1	4		
+T2G	TR2	0		
+T2G	TR1	13		
+T2G	TR2	10	
